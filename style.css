@@ -2,4 +2,25 @@ html {
     height: 100%;
     width: 100%;
   }
+
+body {
+  margin: 0;
+}
+
+.main-nav{
+  background-color: #428df5;
+  width: 100%;
+  margin: 0px 0px 15px 0px;
+  padding: 0px 0px 15px 0px;
+  position: fixed;
+  display: flex;
+
+}
+
+.option-nav ul{
+  font-size: large;
+  list-style-type: none;
+  display: flex;
+  gap: 500px;
+}
   
