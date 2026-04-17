@@ -44,3 +44,11 @@ body {
   width: 50%;
   height: auto;
 }
+
+.footerClase p{
+  background-color: black;
+  color: azure;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 92px;
+  font-style: bold;
+}
